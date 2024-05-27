@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MekhiHill
-- 👀 I’m a it student
-- i love to do coding
-- coding is my passion
+- 👀 I’m a CS student
+- I'm Doing Ver good Work For Coding Work
+- I'm An Expert In Java And Css And Any others Languages
 
 
 <!---
