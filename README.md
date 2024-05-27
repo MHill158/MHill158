@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MekhiHill
 - 👀 I’m a it student
 - i love to do coding
-- coding is my pation
+- coding is my passion
 
 
 <!---
